@@ -50,10 +50,22 @@ A responsive digital clock website that dynamically displays the current time, i
 
 1. Clone the repository:  
    ```bash  
-   git clone [https://github.com/yourusername/digital-clock.git ]
+   git clone https://github.com/hitakshigabani21/Digital-clock.git
 2. Open the project folder.
 
 3. Run index.html in your browser.
+
+# Contributions 
+Contributions are welcome!
+Feel free to fork the repository and submit a pull request with your ideas and improvements.
+
+### Steps for contributing:
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-name).
+3. Make your changes.
+4. Commit your changes (git commit -m 'Add feature').
+5. Push your changes to your forked repository (git push origin feature-name).
+6. Open a pull request.
 
 
 

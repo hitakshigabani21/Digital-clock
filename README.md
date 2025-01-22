@@ -2,10 +2,10 @@
 A simple, responsive digital clock website built using HTML, CSS, and JavaScript. The clock displays the current time in a 12-hour format with hours, minutes, and milliseconds.
 
 # Features
-12-Hour Format: The clock displays the time in a user-friendly 12-hour format with AM/PM indicators.
-Milliseconds Display: In addition to hours and minutes, the clock also shows precise milliseconds.
-Responsive Design: The website is fully responsive, ensuring a seamless viewing experience across devices of all sizes.
-Real-Time Updates: The clock updates in real-time, providing an accurate display of the current time.
+1. 12-Hour Format: The clock displays the time in a user-friendly 12-hour format with AM/PM indicators.
+2. Milliseconds Display: In addition to hours and minutes, the clock also shows precise milliseconds.
+3. Responsive Design: The website is fully responsive, ensuring a seamless viewing experience across devices of all sizes.
+4. Real-Time Updates: The clock updates in real-time, providing an accurate display of the current time.
 # Technologies Used
 HTML: Structure of the website.
 CSS: Styling and responsiveness of the clock and overall layout.

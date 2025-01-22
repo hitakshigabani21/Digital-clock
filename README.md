@@ -2,8 +2,6 @@
 
 A responsive digital clock website that dynamically displays the current time, including hours, minutes, seconds, and milliseconds. The clock operates on a 12-hour format and adapts seamlessly to different screen sizes.
 
----
-
 ## Features  
 
 - Displays the current time in **hours**, **minutes**, **seconds**, and **milliseconds**.  
@@ -11,24 +9,17 @@ A responsive digital clock website that dynamically displays the current time, i
 - **Responsive design** to ensure compatibility across various devices.  
 - Real-time updates for accurate time display.  
 
----
-
 ## Technologies Used  
 
 - **HTML**: Structuring the webpage.  
 - **CSS**: Styling the clock and ensuring responsiveness.  
 - **JavaScript**: Dynamically updating the time every millisecond.  
 
----
-
 ## How It Works  
 
 1. The webpage fetches the current time from the user's system.  
 2. JavaScript updates the time displayed on the screen every millisecond using `setInterval()`.  
 3. CSS ensures the clock remains visually appealing and responsive on all devices.  
-
----
-
 
 ## Lessons Learned  
 
@@ -40,8 +31,6 @@ A responsive digital clock website that dynamically displays the current time, i
 
 ### 3. **JavaScript Basics**  
 - Enhanced understanding of JavaScript for DOM manipulation and handling dynamic content.  
-
----
 
 ## Installation  
 

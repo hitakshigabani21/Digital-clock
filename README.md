@@ -29,9 +29,6 @@ A responsive digital clock website that dynamically displays the current time, i
 
 ---
 
-## Project Structure  
-
----
 
 ## Lessons Learned  
 
